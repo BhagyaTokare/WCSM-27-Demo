@@ -6,7 +6,7 @@ public class Demo {
 	@Test
 	public void demo()
 	{
-		
+		System.out.println("cchangge 1");
 	}
 
 }
