@@ -8,6 +8,7 @@ public class SamplePage {
 	public void Page()
 	{
 		System.out.println("page");
+		System.out.println("Object");
 	}
 
 }
