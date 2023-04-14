@@ -9,6 +9,8 @@ public class SamplePage {
 	{
 		System.out.println("page");
 		System.out.println("Object");
+		
+		
 	}
 
 }
